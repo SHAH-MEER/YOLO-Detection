@@ -1,4 +1,4 @@
-# YOLOv8 Video Object Detection App
+# YOLOv8 Object Detection App
 
 A Python web app that performs object detection on videos using the state-of-the-art YOLOv8 models from Ultralytics. Upload any video, choose a YOLOv8 model variant, adjust detection thresholds, and get a processed video with bounding boxes around detected objects — all through an interactive Gradio interface.
 
